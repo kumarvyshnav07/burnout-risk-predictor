@@ -76,6 +76,16 @@ http://localhost:8501/
 
 ---
 
+## 📸 Preview
+
+### 🔹 Dashboard
+![Dashboard](imgb1.png)
+
+### 🔹 Prediction Result
+![Prediction](imgb2.png)
+
+---
+
 ## 💡 Key Highlights
 
 * Uses realistic synthetic dataset with noise to avoid overfitting
