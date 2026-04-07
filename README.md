@@ -96,10 +96,10 @@ http://localhost:8501/
 
 ## 👨‍💻 Author
 
-**Kumar Vyshnav**
+**Kumar Vyshnav Pampina**
 
 ---
 
 ## ⭐ If you like this project
 
-Give it a ⭐ on GitHub 
+Give it a ⭐ on GitHub!
